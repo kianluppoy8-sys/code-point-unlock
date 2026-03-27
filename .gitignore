@@ -1,0 +1,8 @@
+.env.php
+includes/.env.php
+temp/
+*.log
+.DS_Store
+.vscode/
+.idea/
+vendor/
