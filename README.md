@@ -15,4 +15,6 @@ define('JDOODLE_CLIENT_SECRET', 'YOUR_JDOODLE_CLIENT_SECRET');
 ```
 
 ## Setup Instructions
-Please refer to `README_HOSTINGER.md` for full database and Hostinger setup instructions.
+Please refer to `README_HOSTINGER.md` for full database and Hostinger setup instructions. 
+
+*created by [kianluppoy8-sys](https://github.com/kianluppoy8-sys)*
